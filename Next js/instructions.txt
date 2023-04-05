@@ -1,0 +1,28 @@
+-> Nextjs is a additional software after react in which we enjoy some amazing features that we don't in react
+
+-> Nextjs has also have a awesome feature i.e. we can have/make backend files using Nextjs only and we don't have to use other application for the backend files 
+so the conclusion is Nextjs is equivalent to whole MERN Stack
+
+-> to start project you need to run "npm run dev"
+
+-> Nextjs is a god level thing using which you can do anything from SEO to image optimisation
+
+-> the main problem with react is it can't be ranked in SEO ranking of google so it become difficult so to deal with this problem we use Nextjs
+
+-> to create nextjs app we have taken code from google
+
+-> public folder is the folder which contains all the files that a user will see so no personal info should be in this file
+
+-> ... this is a fucntion of javascript which opens up the array to store data in it
+
+-> to make diffret components of your website you just need to make rafce pages inside pages folder
+
+-> here we have made a slug in which everything we write in url after /slug/ will come on webpage
+
+->if you want to add your css  file to your nextjs in only one page then you can't do that so to overcome this problem you have to import your css file to every file in your project
+you can do this by importing your css file in _app.js this is a heart of your project that is every initiation of command will come from here only
+
+-> if you want to use css in nextjs project you can do that by using 'style jsx' component of Nextjs and it act as css file in like in html 
+and if you want to use a css file from a page to whole project you can do that by using command 'style jsx global'
+
+
